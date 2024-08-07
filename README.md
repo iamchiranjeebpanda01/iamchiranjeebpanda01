@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [eRaktKosh](https://github.com/iamchiranjeebpanda01/eRaktKosh)
 
-- 🌱 I’m currently learning **NextJs, React, Express, NodeJs, MongoDB**
+- 🌱 I’m currently learning **deployment with AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamchiranjeebpanda01](https://github.com/iamchiranjeebpanda01)
 
